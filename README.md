@@ -72,6 +72,8 @@
 					  "requires":[]}}}
 ```
 ## example
+
+
 ```javaScript
 db.createCollection(
 	 "Company",
